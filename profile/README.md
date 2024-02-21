@@ -4,21 +4,25 @@
 
 -----------
 
+# Introduction
 
-## Self learning
-<img width="822" alt="Screenshot 2024-02-21 at 16 12 55" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/570c6b2c-be28-40fb-a8d2-65be2a694b43">
-
-
-## Various contents
-<img width="839" alt="Screenshot 2024-02-21 at 16 12 40" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/5e5ade3b-a487-4463-b017-50b37a4a36be">
+<img width="1583" alt="data1" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/77c8906e-b315-497a-9bde-475b5106edaf">
 
 
-## Rewards to play
-<img width="838" alt="Screenshot 2024-02-21 at 16 12 12" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/2335a1d5-8ede-42d3-a853-7c6e27fba660">
+<img width="1583" alt="data2" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/875088f1-311b-4874-aa96-23beea8c2cb6">
 
 
-## Ranking system
-<img width="811" alt="Screenshot 2024-02-21 at 16 13 36" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/16367874-f62b-4156-8423-41afcb99c6e5">
+<img width="1583" alt="data3" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/33220b00-3d00-4a75-9c85-ab8f7390a117">
+
+
+# Features
+## App(Flutter)
+
+
+## DB Server(Node.js)
+
+
+## ML Server(Firebase Function)
 
 
 # 😎 About the Team
