@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=SAFEY&fontColor=#000000&fontSize=100)
+<img width="1784" alt="Screenshot 2024-02-21 at 16 16 34" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/a5a78640-b92c-4680-969f-6dd6a9ce2573">
 
-Service to effective & entertaining education of learning treatment from urgent disaster.
+### Service to effective & entertaining education of learning treatment from urgent disaster.
+
+-----------
+
 
 ## Self learning
 <img width="822" alt="Screenshot 2024-02-21 at 16 12 55" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/570c6b2c-be28-40fb-a8d2-65be2a694b43">
