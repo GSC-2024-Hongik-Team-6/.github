@@ -12,7 +12,7 @@ I would like to propose a new educational service so that students can be intere
 
 -----------
 
-# Introduction
+# 🎙️ Introduction
 ## System needs to be improved
 
 <img width="1583" alt="data1" src="https://github.com/GSC-2024-Hongik-Team-6/.github/assets/35446381/77c8906e-b315-497a-9bde-475b5106edaf">
@@ -44,15 +44,15 @@ This also applies to other treatments.
 the problem is not just a problem in Korea, but it is even more serious worldwide, especially in countries with insufficient educational infrastructure.
 
 We know empirically and numerically that we are more vulnerable to emergencies such as disasters in areas that lack all-round infrastructure. We believe that our services will be able to melt well in these areas.
-# Features
-## App
+# 🧩 Features
+## 📱 App
 ### Stack
 - Flutter
 
 ### Participants
 - Jun Seon, Lee
 
-## DB Server
+## 🖥️ DB Server
 ### Stack
 - Spring boot
 - Firebase / Google Cloud Platform
@@ -62,7 +62,7 @@ We know empirically and numerically that we are more vulnerable to emergencies s
 -  Dam Won, Kim
 
 
-## ML Server(Firebase Function)
+## 🎥 ML Server(Firebase Function)
 ### Stack
 - Firebase (Functions)
 - TensorFlow Light
