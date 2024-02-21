@@ -43,16 +43,19 @@ This also applies to other treatments.
 
 the problem is not just a problem in Korea, but it is even more serious worldwide, especially in countries with insufficient educational infrastructure.
 
-We know empirically and numerically that we are more vulnerable to emergencies such as disasters in areas that lack all-round infrastructure. We believe that our services will be able to melt well in these areas.
-# 🧩 Features
-## 📱 App
+We know empirically and numerically that we are more vulnerable to emergencies such as disasters in areas that lack all-around infrastructure. We believe that our services will do its best part in these areas.
+
+# 🧩 Parts
+## 📱 [App](https://github.com/GSC-2024-Hongik-Team-6/safety-mobile)
 ### Stack
 - Flutter
 
 ### Participants
 - Jun Seon, Lee
 
-## 🖥️ DB Server
+For more information visit [here](https://github.com/GSC-2024-Hongik-Team-6/safety-mobile)
+
+## 🖥️ [DB Server](https://github.com/GSC-2024-Hongik-Team-6/safety-server)
 ### Stack
 - Spring boot
 - Firebase / Google Cloud Platform
@@ -61,8 +64,9 @@ We know empirically and numerically that we are more vulnerable to emergencies s
 -  Min Kyeong, Lee
 -  Dam Won, Kim
 
+For more information visit [here](https://github.com/GSC-2024-Hongik-Team-6/safety-server)
 
-## 🎥 ML Server(Firebase Function)
+## 🎥 [ML Server](https://github.com/GSC-2024-Hongik-Team-6/safety-ml-server)
 ### Stack
 - Firebase (Functions)
 - TensorFlow Light
@@ -71,8 +75,12 @@ We know empirically and numerically that we are more vulnerable to emergencies s
 ### Participants
 - Joon Hee, Lee
 
+For more information visit [here](https://github.com/GSC-2024-Hongik-Team-6/safety-ml-server)
 
 # 😎 About the Team
-
+|Name|DamWon Kim|MinKyeong Kim|JunSeon Lee|JoonHee Lee|
+|:---:|:---:|:---:|:---:|:---:|
+|Part|Backend|Backend|Mobile|ML|
+|Github|[KIM DAMWON](https://github.com/DamWon-KIM)|[alsrudursla](https://github.com/alsrudursla)|[nx006](https://github.com/nx006)|[jlstdio](https://github.com/jlstdio)|
 
 
