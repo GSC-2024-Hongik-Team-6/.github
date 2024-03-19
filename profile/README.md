@@ -61,7 +61,7 @@ For more information visit [here](https://github.com/GSC-2024-Hongik-Team-6/safe
 - Firebase / Google Cloud Platform
 
 ### Participants
--  Min Kyeong, Lee
+-  Min Kyung, Lee
 -  Dam Won, Kim
 
 For more information visit [here](https://github.com/GSC-2024-Hongik-Team-6/safety-server)
@@ -78,7 +78,7 @@ For more information visit [here](https://github.com/GSC-2024-Hongik-Team-6/safe
 For more information visit [here](https://github.com/GSC-2024-Hongik-Team-6/safety-ml-server)
 
 # 😎 About the Team
-|Name|DamWon Kim|MinKyeong Kim|JunSeon Lee|JoonHee Lee|
+|Name|DamWon Kim|MinKyung Lee|JunSeon Lee|JoonHee Lee|
 |:---:|:---:|:---:|:---:|:---:|
 |Part|Backend|Backend|Mobile|ML|
 |Github|[KIM DAMWON](https://github.com/DamWon-KIM)|[alsrudursla](https://github.com/alsrudursla)|[nx006](https://github.com/nx006)|[jlstdio](https://github.com/jlstdio)|
